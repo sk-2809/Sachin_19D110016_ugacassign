@@ -1,0 +1,53 @@
+
+div.containerLogin {
+    display: inline-block;
+    text-align: center;
+    
+     margin: 0;
+     background: red;
+     position: absolute;
+     top: 25%;
+     left: 60%;
+     
+     
+ 
+ 
+ 
+     padding-top:2%;
+     padding-left:2%;
+     padding-right:2%;
+     padding-bottom:2%;
+ 
+ 
+ 
+     border-radius: 5%;
+     border: 30%;
+}
+ 
+div.containerLOGIN {
+    display: inline-block;
+    text-align: center;
+    
+     margin: 0;
+     background: Blue;
+     position: absolute;
+     top: 25%;
+     left: 20%;
+     
+     
+ 
+ 
+ 
+     padding-top:2%;
+     padding-left:2%;
+     padding-right:2%;
+     padding-bottom:2%;
+ 
+ 
+ 
+     border-radius: 5%;
+     border: 30%;
+}
+ body{
+    background-image: url(https://images.unsplash.com/photo-1555488205-d5e67846cf40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+}
