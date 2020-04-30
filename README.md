@@ -1,7 +1,7 @@
 # Sachin_19D110016_ugacassign
 
 ## Description For Each Problem are given below:<br>
-* Problem 0: In this problem I have to create a XAMPP local server in my computer,So I have downloaded the XAMPP setup from link (https://www.apachefriends.org/index.html). After that I have installed it to my computer and created a local server in my computer.Creating local server using XAMPP helps me to cheak the php files made for Problem 1. <br><br>
+* Problem 0: In this problem I have to create a XAMPP local server in my computer,So I have downloaded the XAMPP setup from link (https://www.apachefriends.org/index.html). After that I have installed it to my computer and created a local server in my computer.Creating local server using XAMPP helps me to check the php files made for Problem 1,And creating local server also help me in creating database in problem 4. <br><br>
 
 
 * Problem 1: In this problem I have to make user-login page and user-registration page using using HTML and CSS.And also to make the page functional using PHP and SQL that can display the username of the user after Successful login.And also to give a logout button after getting login to your page.
